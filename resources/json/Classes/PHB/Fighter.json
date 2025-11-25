@@ -1,0 +1,54 @@
+{
+    "id": "class3",
+    "name": "Fighter (Weaponmaster)",
+    "source": "PHB",
+    "classTraits": {
+        "role": "Defender",
+        "roleFlavor": "Tough and resilient, you use tactical cunning and battle prowess to contain the enemy and protect your allies.",
+        "powerSource": "Martial",
+        "keyAbilities": ["Strength", "Dexterity", "Wisdom", "Constitution"],
+        "armorProficiencies": [
+            "Cloth",
+            "Leather",
+            "Hide",
+            "Chainmail",
+            "Scale",
+            "Heavy Shields",
+            "Light Shields"
+        ],
+        "weaponProficiencies": {
+            "melee": ["simple", "military"],
+            "ranged": ["simple", "military"]
+        },
+        "bonusDefenses": {
+            "AC": null,
+            "Fortitude": 2,
+            "Reflex": null,
+            "Will": null
+        },
+        "hitPoints": {
+            "initial": "15 + Constitution Score",
+            "perLevel": "6"
+        },
+        "healingSurgesPerDay": "9 + Constitution Modifier",
+        "trainedSkills": {
+            "preSelected": null,
+            "numberOfChoices": 3
+        },
+        "classSkills": [
+            "Athletics",
+            "Endurance",
+            "Heal",
+            "Intimidate",
+            "Streetwise"
+        ],
+        "buildOptions": [
+            "Arena Fighter",
+            "Battlerager Fighter",
+            "Brawling Fighter",
+            "Great Weapon Fighter",
+            "Guardian Fighter",
+            "Tempest Fighter"
+        ]
+    }
+}
