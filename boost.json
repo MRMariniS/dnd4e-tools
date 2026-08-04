@@ -1,12 +1,7 @@
 {
     "agents": [
-        "copilot"
+        "claude_code"
     ],
-    "editors": [
-        "vscode"
-    ],
-    "guidelines": [
-        "laravel/fortify"
-    ],
-    "herd_mcp": true
+    "cloud": false,
+    "guidelines": true
 }
