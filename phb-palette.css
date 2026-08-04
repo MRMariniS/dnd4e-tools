@@ -1,0 +1,30 @@
+/*
+  Paleta de cores extraída do Player's Handbook (D&D 4E)
+  Gerada por análise de cor dominante (k-means) em ~18 páginas
+  representativas do livro (capa, divisórias de capítulo, ilustrações).
+*/
+
+:root {
+  /* Fundo / papel */
+  --phb-parchment: #f8f7f4;
+
+  /* Texto / tinta escura */
+  --phb-ink: #331e1d;
+
+  /* Cor primária — vermelho terracota, presente na capa e capítulos */
+  --phb-rust: #893725;
+  --phb-rust-dark: #6b2a1c;
+  --phb-rust-light: #a9503a;
+
+  /* Cor secundária — dourado/âmbar, usado em títulos e ornamentos */
+  --phb-gold: #da8638;
+  --phb-gold-dark: #b96f2a;
+  --phb-gold-light: #eaa860;
+
+  /* Acento arcano — azul-acinzentado (páginas de magia/arcano) */
+  --phb-slate: #555864;
+  --phb-dusk-blue: #80a2b1;
+
+  /* Neutro — cinza pedra, usado em bordas e divisores */
+  --phb-stone: #ccbcb3;
+}
