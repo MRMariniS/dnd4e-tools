@@ -1,0 +1,96 @@
+Book Colors
+
+HOFL                                              
+
+Background #ffffff
+H3 Title #4c5b79
+Text #231f20
+Background 2 #f2f3ed
+Text 2 #48442d
+H3 Title 2 #133d5d
+SubText #939598
+Page Header Title #7b8298
+H2 Title #55627e
+Quote #7b8298
+BulletList #133d5d
+Table Header Background #133d5d
+Table Header Text #ffffff
+Table Row 1st #d2d0ba
+Table Row 2nd #dcdbcb
+
+DMK
+
+Background #ffffff
+H2 Title #794953
+Page Header Title #9d777e
+Quote #9c7b81
+H3 Title #5a1d33
+H4 Title #7f525b
+Background 2 #f2f3ed
+Text 2 #48442d
+Table Header Background #5a1d33
+Table Header Text #ffffff
+Table Row 1st #d2d0ba
+Table Row 2nd #dcdbcb
+
+MV
+
+Background #ffffff
+H2 Title #6f764f
+Quote #95987b
+H3 Title #4d5b2d
+H4 Title #777d56
+Table Header Background #4d5b2d
+Table Header Text #ffffff
+
+Power At-Will
+
+Card Header Background #619769
+Card Header Text #ffffff
+Flavor Background #dcdbcb
+Powerstat Background #ffffff
+Powerstat Background 2 #dcdbcb
+
+Power Encounter
+
+Card Header Background #961234
+Card Header Text #ffffff
+Flavor Background #dcdbcb
+Powerstat Background #ffffff
+Powerstat Background 2 #dcdbcb
+
+Power Daily
+
+Card Header Background #4b4c4d
+Card Header Text #ffffff
+Flavor Background #dcdbcb
+Powerstat Background #ffffff
+Powerstat Background 2 #dcdbcb
+
+Item
+
+Card Header Background #d9951b
+Card Header Text #ffffff
+Flavor Background #dcdbcb
+Powerstat Background #ffffff
+Powerstat Background 2 #dcdbcb
+
+Trap
+
+Card Header Background #5a1d33
+Card Header Text #ffffff
+Check Background #e8e6d6
+Action Background #794953
+Action Text #ffffff
+Attack Row 1 Background #cccab5
+Attack Row 2 Background #e8e6d6
+
+Monster
+
+Card Header Background #4d5b2d
+Card Header Text #ffffff
+Stats Background #e6e6d6
+Traits/Actions Header Background #70794c
+Traits/Actions Header Text #ffffff
+Traits/Actions Background #c7c2b4
+Traits/Action Background 2 #e6e6d6
